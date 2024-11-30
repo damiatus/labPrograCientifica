@@ -1,0 +1,15 @@
+artifact_uri: file:///home/damiatus/labPrograCientifica/Lab12/mlruns/888246936125167671/e12df37d0ccf45c789e5bd2aea13f406/artifacts
+end_time: 1732931753280
+entry_point_name: ''
+experiment_id: '888246936125167671'
+lifecycle_stage: active
+run_id: e12df37d0ccf45c789e5bd2aea13f406
+run_name: XGBoost con lr 0.06525973289116033
+run_uuid: e12df37d0ccf45c789e5bd2aea13f406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732931752613
+status: 3
+tags: []
+user_id: damiatus
