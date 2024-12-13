@@ -17,6 +17,8 @@ Este repositorio está organizado para reflejar el trabajo en los diferentes lab
 - **`lab1`**: Rama para el primer laboratorio.
 - **`labN`**: Rama para el N laboratorio.
 
+También se podrá encontrar la rama **`proyecto`** en la que están los arhcivos correspondientes al proyecto realisado al final del curso.
+
 ## Contenido de las Ramas
 
 Cada rama incluye:
