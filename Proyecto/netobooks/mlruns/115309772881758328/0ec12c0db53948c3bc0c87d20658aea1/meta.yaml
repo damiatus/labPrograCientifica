@@ -1,0 +1,15 @@
+artifact_uri: file:///home/damiatus/labPrograCientifica/Proyecto/netobooks/mlruns/115309772881758328/0ec12c0db53948c3bc0c87d20658aea1/artifacts
+end_time: 1734023486235
+entry_point_name: ''
+experiment_id: '115309772881758328'
+lifecycle_stage: active
+run_id: 0ec12c0db53948c3bc0c87d20658aea1
+run_name: marvelous-squid-818
+run_uuid: 0ec12c0db53948c3bc0c87d20658aea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734023359350
+status: 4
+tags: []
+user_id: damiatus

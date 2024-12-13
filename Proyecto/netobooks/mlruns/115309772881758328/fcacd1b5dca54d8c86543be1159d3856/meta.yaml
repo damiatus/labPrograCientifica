@@ -1,0 +1,15 @@
+artifact_uri: file:///home/damiatus/labPrograCientifica/Proyecto/netobooks/mlruns/115309772881758328/fcacd1b5dca54d8c86543be1159d3856/artifacts
+end_time: 1734023627302
+entry_point_name: ''
+experiment_id: '115309772881758328'
+lifecycle_stage: active
+run_id: fcacd1b5dca54d8c86543be1159d3856
+run_name: adorable-bug-585
+run_uuid: fcacd1b5dca54d8c86543be1159d3856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734023513512
+status: 4
+tags: []
+user_id: damiatus

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/971604331465937321/96f8d37b93524ee4acca693487649ac9/artifacts
+end_time: 1734058262167
+entry_point_name: ''
+experiment_id: '971604331465937321'
+lifecycle_stage: active
+run_id: 96f8d37b93524ee4acca693487649ac9
+run_name: Re-Train_Optuna_2024-12-12_23-46-57
+run_uuid: 96f8d37b93524ee4acca693487649ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734058017237
+status: 3
+tags: []
+user_id: damiatus

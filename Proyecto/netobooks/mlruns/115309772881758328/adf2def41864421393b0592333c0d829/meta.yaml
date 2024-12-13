@@ -1,0 +1,15 @@
+artifact_uri: file:///home/damiatus/labPrograCientifica/Proyecto/netobooks/mlruns/115309772881758328/adf2def41864421393b0592333c0d829/artifacts
+end_time: 1734023734202
+entry_point_name: ''
+experiment_id: '115309772881758328'
+lifecycle_stage: active
+run_id: adf2def41864421393b0592333c0d829
+run_name: treasured-bass-140
+run_uuid: adf2def41864421393b0592333c0d829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734023679982
+status: 4
+tags: []
+user_id: damiatus

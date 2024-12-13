@@ -1,0 +1,15 @@
+artifact_uri: file:///home/damiatus/labPrograCientifica/Proyecto/netobooks/mlruns/115309772881758328/597998b9fe5745f9b22053d3dd016bea/artifacts
+end_time: 1734022535856
+entry_point_name: ''
+experiment_id: '115309772881758328'
+lifecycle_stage: active
+run_id: 597998b9fe5745f9b22053d3dd016bea
+run_name: able-yak-478
+run_uuid: 597998b9fe5745f9b22053d3dd016bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734022198980
+status: 4
+tags: []
+user_id: damiatus

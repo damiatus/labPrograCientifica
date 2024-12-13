@@ -1,0 +1,15 @@
+artifact_uri: file:///home/damiatus/labPrograCientifica/Proyecto/netobooks/mlruns/115309772881758328/8dcbd329039f44509d16e61919dc8636/artifacts
+end_time: 1734022154460
+entry_point_name: ''
+experiment_id: '115309772881758328'
+lifecycle_stage: active
+run_id: 8dcbd329039f44509d16e61919dc8636
+run_name: Reentrenamiento_Optuna
+run_uuid: 8dcbd329039f44509d16e61919dc8636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734022154421
+status: 4
+tags: []
+user_id: damiatus

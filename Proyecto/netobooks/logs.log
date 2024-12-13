@@ -10761,3 +10761,425 @@ dtype: int64}],
 2024-11-29 00:11:48,626:INFO:Preloading libraries
 2024-11-29 00:11:48,629:INFO:Set up data.
 2024-11-29 00:11:48,746:INFO:Set up index.
+2024-12-05 23:50:41,441:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-05 23:50:41,442:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-05 23:50:41,442:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-05 23:50:41,442:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 12:52:47,225:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 12:52:47,227:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 12:52:47,227:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 12:52:47,227:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 13:00:14,239:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/pycaret/internal/pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.0.2', 'setuptools': '59.6.0', 'pycaret': '3.3.2', 'IPython': '8.30.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.2', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.5.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '6.1.0', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.1.0', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '24.1.2', 'setuptools': '75.1.0', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.6', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.2', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.5.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.0', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-12-12 13:43:55,847:WARNING:/tmp/ipykernel_29021/1483715953.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:49:14,457:WARNING:/tmp/ipykernel_29021/1046955856.py:20: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:49:58,993:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:50:20,474:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:50:39,867:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:51:02,155:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:51:17,601:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:51:35,389:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:52:13,452:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:52:46,397:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:53:10,162:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:53:33,780:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:53:50,794:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:54:17,677:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:54:39,865:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:54:58,164:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 13:55:19,088:WARNING:/tmp/ipykernel_29021/1410544738.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:04:04,965:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:04:29,373:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:04:43,055:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:05:03,590:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:05:26,987:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:05:43,633:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:06:02,922:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:06:22,546:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:06:38,042:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:06:55,973:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:07:10,816:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:07:31,036:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:07:47,121:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:08:03,007:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:08:19,292:WARNING:/tmp/ipykernel_29021/3117289889.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:09:03,219:WARNING:/tmp/ipykernel_29021/1999889032.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:09:19,384:WARNING:/tmp/ipykernel_29021/1999889032.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:09:40,798:WARNING:/tmp/ipykernel_29021/1999889032.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:09:59,816:WARNING:/tmp/ipykernel_29021/1999889032.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:10:19,535:WARNING:/tmp/ipykernel_29021/1999889032.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:10:41,687:WARNING:/tmp/ipykernel_29021/1999889032.py:21: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:11:01,372:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [14:11:01] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 14:11:53,571:WARNING:/tmp/ipykernel_29021/2329385857.py:24: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:12:13,865:WARNING:/tmp/ipykernel_29021/2329385857.py:24: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:12:34,390:WARNING:/tmp/ipykernel_29021/2329385857.py:24: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:12:52,098:WARNING:/tmp/ipykernel_29021/2329385857.py:24: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:13:09,366:WARNING:/tmp/ipykernel_29021/2329385857.py:24: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:13:29,218:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [14:13:29] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 14:14:40,002:WARNING:/tmp/ipykernel_29021/2664847979.py:24: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:14:57,913:WARNING:/tmp/ipykernel_29021/2664847979.py:24: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:15:14,838:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [14:15:14] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 14:21:01,166:WARNING:/tmp/ipykernel_29021/2350924314.py:29: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:21:27,542:WARNING:/tmp/ipykernel_29021/2350924314.py:29: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:21:42,528:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [14:21:42] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 14:38:09,726:WARNING:/tmp/ipykernel_29021/1636204649.py:32: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:38:28,174:WARNING:/tmp/ipykernel_29021/1636204649.py:32: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:38:56,383:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [14:38:56] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 14:47:00,206:WARNING:/tmp/ipykernel_29021/584130071.py:35: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:47:25,953:WARNING:/tmp/ipykernel_29021/584130071.py:35: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 14:47:46,695:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [14:47:46] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 15:15:40,763:WARNING:/tmp/ipykernel_29021/3484203580.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:16:07,921:WARNING:/tmp/ipykernel_29021/3484203580.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:16:31,740:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [15:16:31] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 15:20:10,294:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:20:38,084:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:20:58,058:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:21:21,739:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:21:39,922:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:22:01,108:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:22:19,218:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:22:36,956:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:23:00,351:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:23:24,076:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:23:41,687:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:24:08,500:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:24:30,680:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:24:51,247:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:25:09,575:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:25:30,747:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [15:25:30] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 15:27:51,871:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:28:40,470:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:33:51,725:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:35:25,809:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:36:27,058:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:38:00,720:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:39:16,557:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:40:26,879:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:41:43,042:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:43:05,706:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:44:15,197:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:44:59,594:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:45:59,960:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:47:03,479:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:48:07,469:WARNING:/tmp/ipykernel_29021/1755260115.py:59: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 15:48:58,713:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [15:48:58] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 16:27:52,448:WARNING:/tmp/ipykernel_29021/2703601615.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 16:28:48,435:WARNING:/tmp/ipykernel_29021/2703601615.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 16:29:46,367:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [16:29:46] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 18:55:12,130:WARNING:/tmp/ipykernel_29021/1405875196.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:01:37,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 19:01:37,769:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 19:01:37,769:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 19:01:37,769:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 19:06:33,620:WARNING:/tmp/ipykernel_178082/1929804214.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:07:13,234:WARNING:/tmp/ipykernel_178082/1929804214.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:08:17,999:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [19:08:17] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 19:25:07,600:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 19:25:07,600:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 19:25:07,600:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 19:25:07,600:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 19:32:07,369:WARNING:/tmp/ipykernel_187458/190741382.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:33:14,531:WARNING:/tmp/ipykernel_187458/190741382.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:34:17,832:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [19:34:17] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 19:38:41,787:WARNING:/tmp/ipykernel_187458/2619177218.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:39:46,866:WARNING:/tmp/ipykernel_187458/2619177218.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:41:01,000:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [19:41:00] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 19:46:00,045:WARNING:/tmp/ipykernel_187458/285299628.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:47:30,237:WARNING:/tmp/ipykernel_187458/285299628.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:48:28,760:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [19:48:28] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 19:52:59,228:WARNING:/tmp/ipykernel_187458/1776318729.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:53:44,272:WARNING:/tmp/ipykernel_187458/1776318729.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 19:54:45,835:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [19:54:45] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+
+2024-12-12 23:31:56,635:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 23:31:56,635:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 23:31:56,635:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 23:31:56,635:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-12 23:45:00,043:WARNING:/tmp/ipykernel_18277/2345462771.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 23:46:57,253:WARNING:/tmp/ipykernel_18277/309430666.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 23:48:09,126:WARNING:/tmp/ipykernel_18277/309430666.py:50: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  param['subsample'] = trial.suggest_uniform('subsample', 0.70, 0.85)
+
+2024-12-12 23:48:58,951:WARNING:/home/damiatus/.local/lib/python3.10/site-packages/xgboost/core.py:158: UserWarning: [23:48:58] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+

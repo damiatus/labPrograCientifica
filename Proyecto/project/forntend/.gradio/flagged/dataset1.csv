@@ -1,0 +1,5 @@
+Sube un archivo CSV con los datos para predecir,Predicciones,timestamp
+.gradio/flagged/Sube un archivo CSV con los datos para predecir/697dc6c36c4a0121518f/xt2.csv,"{""headers"": [""1"", ""2"", ""3""], ""data"": [["""", """", """"]], ""metadata"": null}",2024-12-12 21:34:15.554468
+,"{""headers"": [""1"", ""2"", ""3""], ""data"": [["""", """", """"]], ""metadata"": null}",2024-12-13 00:17:48.785130
+,"{""headers"": [""1"", ""2"", ""3""], ""data"": [["""", """", """"]], ""metadata"": null}",2024-12-13 00:17:55.632102
+.gradio/flagged/Sube un archivo CSV con los datos para predecir/9faad27d701612f43f8d/empty.csv,"{""headers"": [""1"", ""2"", ""3""], ""data"": [["""", """", """"]], ""metadata"": null}",2024-12-13 00:27:53.360974
